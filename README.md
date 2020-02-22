@@ -2,7 +2,6 @@
 
 Git Tutorial Repository
 
-I am a Front End Web Developer and Graphic Designer; coding is one of my favorite things to do. All the usual suspects: HTML, CSS,
-JS, and Adobe Creative Applications Suite.
+I'm a Web Designer currently learning additional programming languages to become a Front End Web Developer. I also do some graphic design. Coding is one of my favorite things to do. I am experienced in HTML, CSS, and Adobe Creative Applications.
 
-I also paint; acrylic is my main medium.
+Things I enjoy doing include acrylic painting, horseback riding, and traveling. I also love basketball, enjoy being at the beach, and watching a good movie.
